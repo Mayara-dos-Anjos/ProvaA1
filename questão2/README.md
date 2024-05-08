@@ -1,18 +1,7 @@
-## Getting Started
+# Enunciado da questão
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Elabore um programa em Java que leia 3 valores numéricos.
+Estes 3 números devem ser apresentados de acordo com a ordem escolhida pelo usuário conforme as seguintes opções :
+opção 1 : os 3 números devem ser apresentados em ordem crescente
+opção 2 : os 3 números devem ser apresentados em ordem decrescente
+opção 3 : os 3 números devem ser apresentados de forma que o maior números fique entre os outros dois números.
